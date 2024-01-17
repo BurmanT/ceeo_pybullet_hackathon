@@ -1,6 +1,6 @@
 <?xml version="1.0"?> 
-<robot name="simplecar">
-    <!-- Base Frame of Car --> 
+<robot name="ballbeam">
+    <!-- Base Frame of Beam --> 
     <material name="black">
         <color rgba="0 0 0 1"/>
     </material>
