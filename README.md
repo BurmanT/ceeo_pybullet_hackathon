@@ -2,7 +2,7 @@
 3. Create conda environment on terminal: **conda create -n myenv python=3.8.10**
 4. Activate the conda environment (https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-python): **conda activate myenv**
 5. Install pybullet (https://pypi.org/project/pybullet/): **pip install pybullet**
-6. Clone the repo
+6. Clone the repo, cd into repo
 7. Run: **python3 ballbeam.py**
     -- How does the lever move when toggling the slider?  
 9. Explore:
