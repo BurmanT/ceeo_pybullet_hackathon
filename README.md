@@ -4,12 +4,14 @@
 5. Install pybullet (https://pypi.org/project/pybullet/): **pip install pybullet**
 6. Clone the repo, cd into repo
 7. Run: **python3 ballbeam.py**
-    -- How does the lever move when toggling the slider?  
+    How does the lever move when toggling the slider on the right?  
 9. Explore:
-    -- Can you add a different object to the simulation?
-    -- Can you modify ballbeam/ballbeam.urdf to make the pivot in the center instead of all the way in the left of the beam?
-    -- Can you change the mass/size of the ball?
+    Can you add a different object to the simulation?
+    Can you modify ballbeam/ballbeam.urdf to make the pivot in the center instead of all the way in the left of the beam?
+    Can you change the mass/size of the ball? How does this change the movement of the ball?
 
 Helpful Resources:
--- https://gerardmaggiolino.medium.com/creating-openai-gym-environments-with-pybullet-part-1-13895a622b24
+https://medium.com/@chand.shelvin/pybullet-getting-started-a068a0e3d492
+https://gerardmaggiolino.medium.com/creating-openai-gym-environments-with-pybullet-part-1-13895a622b24
+
 
