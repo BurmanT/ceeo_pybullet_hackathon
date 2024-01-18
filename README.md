@@ -16,6 +16,7 @@ https://gerardmaggiolino.medium.com/creating-openai-gym-environments-with-pybull
 
 
 ballbeam.py: script for interacting with the objects in the simulation
+
 resources/: contains urdf files for the ball and the ball beam structure 
 
 
