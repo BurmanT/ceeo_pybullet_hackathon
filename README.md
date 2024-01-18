@@ -12,6 +12,10 @@
 
 Helpful Resources:
 https://medium.com/@chand.shelvin/pybullet-getting-started-a068a0e3d492
-https://gerardmaggiolino.medium.com/creating-openai-gym-environments-with-pybullet-part-1-13895a622b24
+https://gerardmaggiolino.medium.com/creating-openai-gym-environments-with-pybullet-part-1-13895a622b24]
+
+
+ballbeam.py: script for interacting with the objects in the simulation
+resources/: contains urdf files for the ball and the ball beam structure 
 
 
